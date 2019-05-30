@@ -1,0 +1,16 @@
+{
+  "name": "EncodeAudioApplication",
+  "version": "0.0.0",
+  "description": "Converter o arquivo de áudio com amostragem reduzida em valores numéricos que você pode colar em seu programa Arduino.",
+  "main": "index.js",
+  "repository": "git@github.com:danielso2007/EncodeAudioApplication.git",
+  "author": "danielso2007 <danielso2007@gmail.com>",
+  "license": "MIT",
+  "private": true,
+  "scripts": {
+    "release": "standard-version"
+  },
+  "devDependencies": {
+    "standard-version": "^6.0.1"
+  }
+}
